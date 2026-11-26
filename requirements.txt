@@ -1,8 +1,0 @@
-kurigram>=2.2.26,<3
-telethon>=1.36,<2
-tgcrypto==1.2.5
-motor==3.6.0
-pymongo==4.9.1
-python-dotenv==1.0.1
-httpx>=0.28,<1
-qrcode[pil]>=7.4
